@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+}
+.nav_bar {
+    width: 100%;
+    margin:0;
+}
+
+ul{
+    list-style: none;
+}
+ul.topnav li.float_left {
+    float: left;
+    
+}
+
+ul.topnav li.float_right {
+    float:right;
+    
+}
+
+ul.topnav li a {
+    text-decoration: none;
+    color: dimgray;
+    min-height: 16px;
+    padding: 13px;
+    display: block;
+    text-align: center;
+}
+
+ul.topnav li a:hover{
+    
+}
+
+.logo {
+    margin: auto;
+    display: block;
+    padding-top: 200px;
+}
+
+.Input-Field {
+    margin: auto;
+    display: block;
+    padding: 10px;
+    border-radius: 40px;
+    width: 40%;
+    height: 25px;
+    border:0.5px solid #e6e6e6; 
+    background-image: url(images/images.png);
+    background-repeat: no-repeat;
+    text-indent: 43px;
+    font-size: 24px;
+    font-family: sans-serif;
+
+     
+}
+
+
+.Buttons {
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+button {
+    padding: 10px;
+    text-align: center;
+    background: #e6e6e6;
+    cursor: pointer;
+    font-size: 15px;
+
+}
+
+
+
+
+
